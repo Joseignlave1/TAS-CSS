@@ -1,0 +1,19 @@
+.impar-numbers {
+    background-color: #f70071;
+    font-family: Verdana, dejavu-sans , sans-serif;
+}
+
+#first-par {
+    color: blue;
+    font-size: 36px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#second-par {
+    background-color: greenyellow ;
+    font-size: 24px;
+    font-weight: bold;
+}
